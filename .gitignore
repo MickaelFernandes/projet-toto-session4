@@ -1,0 +1,10 @@
+# .gitignore
+
+#ne jamais versionner le config file
+inc/config.php
+
+#ni vendor
+vendor
+
+#ni le composer.lock
+composer.lock
